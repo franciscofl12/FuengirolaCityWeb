@@ -194,19 +194,19 @@ a:hover {
 }
 
 #banner {
-	background-image: url("https://i.imgur.com/XL2PAd3.png");
+	background-image: url("../img/fondo.jpg");
 	padding: 75px 0px 75px 0px;
 	text-align: center;
 }
 
 #banner2 {
-	background-image: url("https://i.imgur.com/8P27W9N.png");
+	background-image: url("../img/fondo.jpg");
 	padding: 75px 0px 75px 0px;
 	text-align: center;
 }
 
 #banner3 {
-	background-image: url("https://i.imgur.com/MljFIMA.png");
+	background-image: url("../img/fondo.jpg");
 	padding: 75px 0px 75px 0px;
 	text-align: center;
 }
@@ -291,44 +291,44 @@ a:hover {
 	transition: all .2s ease-in;
 }
 
-#gamemodes {
+#reglas {
 	margin: 10px;
 	text-align: center;
 	padding-top: 66px;
 	padding-bottom: 66px;
 }
 
-#gamemodes h1 {
+#reglas h1 {
 	font-size: 30px;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-top: 15px;
 }
 
-#gamemodes h2 {
+#reglas h2 {
 	margin-top: 5px;
 	font-size: 20px;
 }
 
-#gamemodes p {
+#reglas p {
 	margin-top: 3px;
 	font-size: 18px;
 }
 
-#gamemodes .gray {
+#reglas .gray {
 	background-color: #ecf0f1;
     padding: 0;
     margin: -10px;
 }
 
-#gamemodes .mode {
+#reglas .mode {
 	margin: 15px;
 	text-align: left;
 	padding: 50px;
 	max-width: 1280px;
 }
 
-#gamemodes .mode-inv {
+#reglas .mode-inv {
 	margin: 15px;
 	text-align: right;
 	padding: 50px;
@@ -336,7 +336,7 @@ a:hover {
 }
 
 @media screen and (min-width: 800px) {
-	#gamemodes .img {
+	#reglas .img {
 		margin: 15px;
 		padding: 50px;
 		max-width: 1280px
@@ -344,12 +344,12 @@ a:hover {
 }
 
 @media screen and (max-width: 799px) {
-	#gamemodes .img {
+	#reglas .img {
 		padding: 50px 0px 50px 0px;
 	}
 }
 
-#gamemodes .fixed-width {
+#reglas .fixed-width {
 	max-width: 1280px;
 	margin: 0 auto;
 }
